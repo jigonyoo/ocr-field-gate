@@ -1,0 +1,65 @@
+[
+ {"doc":"INV-1001","fields":{
+   "invoice_no":{"text":"INV-1001","conf":0.99},
+   "date":{"text":"2026-03-14","conf":0.97},
+   "subtotal":{"text":"1250.00","conf":0.96},
+   "tax":{"text":"250.00","conf":0.95},
+   "total":{"text":"1500.00","conf":0.98},
+   "vendor":{"text":"Borealis Ltd","conf":0.94}}},
+
+ {"doc":"INV-1002","fields":{
+   "invoice_no":{"text":"INV-1002","conf":0.99},
+   "date":{"text":"2026-03-15","conf":0.96},
+   "subtotal":{"text":"800.00","conf":0.93},
+   "tax":{"text":"160.00","conf":0.91},
+   "total":{"text":"860.00","conf":0.97},
+   "vendor":{"text":"Acme GmbH","conf":0.92}}},
+
+ {"doc":"INV-1003","fields":{
+   "invoice_no":{"text":"INV-1OO3","conf":0.71},
+   "date":{"text":"2026-03-16","conf":0.95},
+   "subtotal":{"text":"430.00","conf":0.90},
+   "tax":{"text":"86.00","conf":0.88},
+   "total":{"text":"516.00","conf":0.93},
+   "vendor":{"text":"Cygnus SA","conf":0.89}}},
+
+ {"doc":"INV-1004","fields":{
+   "invoice_no":{"text":"INV-1004","conf":0.98},
+   "date":{"text":"2026-13-02","conf":0.94},
+   "subtotal":{"text":"2100.00","conf":0.95},
+   "tax":{"text":"420.00","conf":0.94},
+   "total":{"text":"2520.00","conf":0.96},
+   "vendor":{"text":"Borealis Ltd","conf":0.93}}},
+
+ {"doc":"INV-1005","fields":{
+   "invoice_no":{"text":"INV-1005","conf":0.97},
+   "date":{"text":"2026-03-18","conf":0.96},
+   "subtotal":{"text":"l500.00","conf":0.99},
+   "tax":{"text":"300.00","conf":0.95},
+   "total":{"text":"1800.00","conf":0.97},
+   "vendor":{"text":"Acme GmbH","conf":0.91}}},
+
+ {"doc":"INV-1006","fields":{
+   "invoice_no":{"text":"INV-1006","conf":0.98},
+   "date":{"text":"2026-03-19","conf":0.97},
+   "subtotal":{"text":"640.00","conf":0.94},
+   "tax":{"text":"128.00","conf":0.93},
+   "total":{"text":"768.00","conf":0.96},
+   "vendor":{"text":"","conf":0.40}}},
+
+ {"doc":"INV-1007","fields":{
+   "invoice_no":{"text":"INV-1002","conf":0.98},
+   "date":{"text":"2026-03-20","conf":0.96},
+   "subtotal":{"text":"310.00","conf":0.95},
+   "tax":{"text":"62.00","conf":0.94},
+   "total":{"text":"372.00","conf":0.97},
+   "vendor":{"text":"Cygnus SA","conf":0.90}}},
+
+ {"doc":"INV-1008","fields":{
+   "invoice_no":{"text":"INV-1008","conf":0.99},
+   "date":{"text":"2026-03-21","conf":0.97},
+   "subtotal":{"text":"1000.00","conf":0.96},
+   "tax":{"text":"200.00","conf":0.95},
+   "total":{"text":"1200.00","conf":0.99},
+   "vendor":{"text":"Borealis Ltd","conf":0.95}}}
+]
