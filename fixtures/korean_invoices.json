@@ -1,0 +1,669 @@
+{
+  "notice": "All documents are synthetic. Business numbers are deliberately fake checksum examples, not registered businesses; leading 000 is intentional. No personal data.",
+  "documents": [
+    {
+      "id": "KR-CLEAN",
+      "label_defective": false,
+      "fields": [
+        {
+          "name": "business_no",
+          "value": "0000000091",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            0,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "date",
+          "value": "2026-03-14",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            20,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "subtotal",
+          "value": "1005",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            40,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "tax",
+          "value": "101",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            60,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "total",
+          "value": "1106",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            80,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.1.amount",
+          "value": "600",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            100,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.2.amount",
+          "value": "405",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            120,
+            150,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR-LOW",
+      "label_defective": false,
+      "fields": [
+        {
+          "name": "business_no",
+          "value": "0000000091",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            0,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "date",
+          "value": "2026.03.14",
+          "confidence": 0.6,
+          "bbox": [
+            0,
+            20,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "subtotal",
+          "value": "1005",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            40,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "tax",
+          "value": "101",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            60,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "total",
+          "value": "1106",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            80,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.1.amount",
+          "value": "600",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            100,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.2.amount",
+          "value": "405",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            120,
+            150,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR-CHECKSUM",
+      "label_defective": true,
+      "fields": [
+        {
+          "name": "business_no",
+          "value": "0000000092",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            0,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "date",
+          "value": "2026-03-14",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            20,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "subtotal",
+          "value": "1005",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            40,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "tax",
+          "value": "101",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            60,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "total",
+          "value": "1106",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            80,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.1.amount",
+          "value": "600",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            100,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.2.amount",
+          "value": "405",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            120,
+            150,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR-TOTAL",
+      "label_defective": true,
+      "fields": [
+        {
+          "name": "business_no",
+          "value": "0000000091",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            0,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "date",
+          "value": "2026-03-14",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            20,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "subtotal",
+          "value": "1005",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            40,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "tax",
+          "value": "101",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            60,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "total",
+          "value": "1107",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            80,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.1.amount",
+          "value": "600",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            100,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.2.amount",
+          "value": "405",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            120,
+            150,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR-VAT",
+      "label_defective": true,
+      "fields": [
+        {
+          "name": "business_no",
+          "value": "0000000091",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            0,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "date",
+          "value": "2026-03-14",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            20,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "subtotal",
+          "value": "1005",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            40,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "tax",
+          "value": "100",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            60,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "total",
+          "value": "1105",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            80,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.1.amount",
+          "value": "600",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            100,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.2.amount",
+          "value": "405",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            120,
+            150,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR-DATE",
+      "label_defective": true,
+      "fields": [
+        {
+          "name": "business_no",
+          "value": "0000000091",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            0,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "date",
+          "value": "2026-02-30",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            20,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "subtotal",
+          "value": "1005",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            40,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "tax",
+          "value": "101",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            60,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "total",
+          "value": "1106",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            80,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.1.amount",
+          "value": "600",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            100,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.2.amount",
+          "value": "405",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            120,
+            150,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR-ITEM",
+      "label_defective": true,
+      "fields": [
+        {
+          "name": "business_no",
+          "value": "0000000091",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            0,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "date",
+          "value": "2026-03-14",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            20,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "subtotal",
+          "value": "1005",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            40,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "tax",
+          "value": "101",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            60,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "total",
+          "value": "1106",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            80,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.1.amount",
+          "value": "600",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            100,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.2.amount",
+          "value": "404",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            120,
+            150,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR-FORMAT",
+      "label_defective": true,
+      "fields": [
+        {
+          "name": "business_no",
+          "value": "0000000091",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            0,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "date",
+          "value": "2026/03/14",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            20,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "subtotal",
+          "value": "1005",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            40,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "tax",
+          "value": "101",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            60,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "total",
+          "value": "1106",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            80,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.1.amount",
+          "value": "600",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            100,
+            150,
+            15
+          ]
+        },
+        {
+          "name": "item.2.amount",
+          "value": "405",
+          "confidence": 0.99,
+          "bbox": [
+            0,
+            120,
+            150,
+            15
+          ]
+        }
+      ]
+    }
+  ]
+}
